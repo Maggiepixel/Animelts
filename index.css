@@ -1,0 +1,27 @@
+
+    h1 {
+        text-align: center;
+        color: green;
+        }
+    
+    p {
+        font-size: large;
+        font-family: sans-serif;
+        }
+
+    h2 {
+        color: green;
+        margin-left: 100px;
+        }
+
+    p {
+        font-size: large;
+        font-family: sans-serif;
+        margin-left: 100px;
+        }
+
+.aligncenter{text-align: center;} 
+
+#goku2{
+    float: right; margin:0 0 0 15px;
+      }
